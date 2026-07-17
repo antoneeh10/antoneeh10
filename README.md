@@ -42,6 +42,6 @@ I am a passionate 10th-grade Computer and Network Engineering student from Indon
 
 ### 🤝 Connect with Me
 
-- ✉️ Email: [yanz-tkzr@zohomai.com](mailto:yanz-tkzr@zohomail.com)
+- ✉️ Email: [yanz-tkzr@zohomai.com](mailto:yanz-tksrv@zohomail.com)
 
 *"Simplicity is the ultimate sophistication."* 🚀
