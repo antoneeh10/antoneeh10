@@ -12,7 +12,7 @@ I am a passionate 10th-grade Computer and Network Engineering student from Indon
   
 <p align="center">
   <a href="https://last.fm/user/yanzzz_songs">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=yanzzz_songs&count=1" alt="Recently Played" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=yanzzz_songs&count=5" alt="Recently Played" />
   </a>
 </p>
 
