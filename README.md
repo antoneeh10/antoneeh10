@@ -8,6 +8,13 @@ I am a passionate 10th-grade Computer and Network Engineering student from Indon
 - 💻 Passionate about **Web Development** & building clean, modern interfaces.
 - ⚙️ Love tweaking mobile hardware/software (Android customization, ADB tweaks, and HyperOS).
 - 🎵 Audiophile at heart—enjoying high-fidelity sound and digital music experiences.
+---
+  
+<p align="center">
+  <a href="https://last.fm/user/yanzzz_songs">
+    <img src="https://lastfm-recently-played.vercel.app/api?user=yanzzz_songs&count=1" alt="Recently Played" />
+  </a>
+</p>
 
 ---
 
