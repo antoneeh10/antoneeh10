@@ -35,7 +35,7 @@ I am a passionate 10th-grade Computer and Network Engineering student from Indon
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoneeh10&show_icons=true&theme=radical" alt="Ardian's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=antoneeh10&show_icons=true&theme=dark" />
 </p>
 
 ---
