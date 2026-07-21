@@ -2,7 +2,7 @@
 
 ### 💫 About Me
 
-I am a passionate 10th-grade Computer and Network Engineering student from Indonesia, deeply interested in frontend web development, UI/UX aesthetics, and mobile system customizations. I love bridging the gap between clean code and beautiful design.
+I am a passionate 11th-grade Computer and Network Engineering student from Indonesia, deeply interested in frontend web development, UI/UX aesthetics, and mobile system customizations. I love bridging the gap between clean code and beautiful design.
 
 - 🏫 Currently studying **Computer and Network Engineering** at **SMKN 12 Batam**.
 - 💻 Passionate about **Web Development** & building clean, modern interfaces.
