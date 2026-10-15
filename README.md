@@ -73,3 +73,11 @@ i'm a computer and network engineering student from indonesia who enjoys combini
 <sub>designed with curiosity, built with code.</sub>
 
 </div>
+<!-- Wavy Footer -->
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C4A6E,100:0284C7&height=120&section=footer"
+    alt="Antoneeh10 Wavy Footer"
+  />
+</div>
