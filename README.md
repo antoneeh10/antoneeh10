@@ -7,7 +7,7 @@
 
 Building things with code, exploring technology, and obsessing over the little details.
 
-</div>---
+</div>----
 
 💫 About Me
 
