@@ -1,7 +1,7 @@
 <!--
   profile README for antoneeh10
   Theme: Midnight Blue / Electric Cyan
---><div align="center"><img src="https://github.com/user-attachments/assets/REPLACE_WITH_BANNER_ID" width="100%" alt="Antoneeh10 Developer Banner" /><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;UI%2FUX+Enthusiast;Android+Customization+Explorer;Music+%26+Technology+Enthusiast" alt="Typing SVG" /><br/><a href="https://github.com/antoneeh10">
+--><<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C4A6E,100:0284C7&height=200&section=header&text=ANTONEEH10&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=WEB%20%E2%80%A2%20ANDROID%20%E2%80%A2%20UI%2FUX&descSize=16&descAlignY=58&animation=fadeIn" alt="Antoneeh10 Wavy Header" /></div> /><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;UI%2FUX+Enthusiast;Android+Customization+Explorer;Music+%26+Technology+Enthusiast" alt="Typing SVG" /><br/><a href="https://github.com/antoneeh10">
   <img src="https://img.shields.io/badge/GitHub-antoneeh10-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:yanz-tksrv@zohomail.com">
@@ -12,9 +12,6 @@
 </a><br/><br/>
 
 Building things with code, exploring technology, and obsessing over the little details.
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C4A6E,100:0284C7&height=200&section=header&text=ANTONEEH10&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=WEB%20%E2%80%A2%20ANDROID%20%E2%80%A2%20UI%2FUX&descSize=16&descAlignY=58&animation=fadeIn" alt="Antoneeh10 Wavy Header" /></div>
-</div>---
-
 💫 about me
 
 name: Antoneeh10
