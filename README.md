@@ -2,8 +2,7 @@
   Profile README for antoneeh10
   Theme: Midnight Blue / Electric Cyan
 --><div align="center">  <!-- Header --><img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C4A6E,100:0284C7&height=200&section=header&text=ANTONEEH10&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=WEB%20%E2%80%A2%20ANDROID%20%E2%80%A2%20UI%2FUX&descSize=16&descAlignY=58&animation=fadeIn"
+width="100%"src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0C4A6E,100:0284C7&height=200&section=header&text=ANTONEEH10&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=WEB%20%E2%80%A2%20ANDROID%20%E2%80%A2%20UI%2FUX&descSize=16&descAlignY=58&animation=fadeIn"
 alt="Antoneeh10 - Web, Android, and UI/UX"
 />
 
