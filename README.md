@@ -31,7 +31,9 @@ i'm a computer and network engineering student from indonesia who enjoys combini
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase&theme=dark" alt="VS Code Git GitHub Firebase"/><br/><img src="https://img.shields.io/badge/Android-Customization-3DDC84?style=flat-square&logo=android" alt="Android customization"/>
 <img src="https://img.shields.io/badge/ADB-Developer_Tools-64748B?style=flat-square" alt="ADB"/>
-<img src="https://img.shields.io/badge/HyperOS-Mobile_OS-0284C7?style=flat-square" alt="HyperOS"/></div>---
+<img src="https://img.shields.io/badge/HyperOS-Mobile_OS-0284C7?style=flat-square" alt="HyperOS"/></div>
+
+---
 
 🎧 Recently Played
 
@@ -39,18 +41,24 @@ i'm a computer and network engineering student from indonesia who enjoys combini
 
 <sub>powered by last.fm</sub>
 
-</div>---
+</div>
+
+---
 
 📊 GitHub Analytics
 
 <div align="center"><img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=antoneeh10&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub statistics"/>
 <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoneeh10&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=94A3B8" alt="Top languages"/><br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=antoneeh10&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/></div>---
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=antoneeh10&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak"/></div>
+
+---
 
 🌌 Contribution Activity
 
-<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=antoneeh10&bg_color=00000000&color=94A3B8&line=38BDF8&point=7DD3FC&area=true&area_color=0C4A6E&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/></div>---
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=antoneeh10&bg_color=00000000&color=94A3B8&line=38BDF8&point=7DD3FC&area=true&area_color=0C4A6E&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/></div>
+
+---
 
 🤝 Let's Connect
 
