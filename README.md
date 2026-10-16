@@ -28,7 +28,9 @@ i'm a computer and network engineering student from indonesia who enjoys combini
 <div align="center">frontend & design
 
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind&theme=dark" alt="HTML CSS JavaScript Tailwind CSS"/></div>
+
 <div align="center">development tools & services
+  
 <img src="https://skillicons.dev/icons?i=vscode,git,github,firebase&theme=dark" alt="VS Code Git GitHub Firebase"/><br/><img src="https://img.shields.io/badge/Android-Customization-3DDC84?style=flat-square&logo=android" alt="Android customization"/>
 <img src="https://img.shields.io/badge/ADB-Developer_Tools-64748B?style=flat-square" alt="ADB"/>
 <img src="https://img.shields.io/badge/HyperOS-Mobile_OS-0284C7?style=flat-square" alt="HyperOS"/></div>
