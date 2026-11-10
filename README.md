@@ -71,7 +71,7 @@ if you enjoy my projects and want to support my work, consider buying me a coffe
 <br/>
 <a href="https://buymeacoffee.com/tkzr.dnote"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_Me-FA9D32?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate via Saweria"/></a>
 <a href="https://saweria.co/tkzrdnote"><img src="https://img.shields.io/badge/Saweria-Support_Me-FA9D32?style=for-the-badge&logo=saweria&logoColor=white" alt="Donate via Saweria"/></a>
-<a href="https://sociabuzz.com/tkzr_dnote/tribe"><img src="https://img.shields.io/badge/SociaBuzz-Support_Me-8B5CF6?style=for-the-badge&logo=heart&logoColor=white" alt="Donate via SociaBuzz"/></a>
+<a href="https://sociabuzz.com/tkzrdnote/tribe"><img src="https://img.shields.io/badge/SociaBuzz-Support_Me-8B5CF6?style=for-the-badge&logo=heart&logoColor=white" alt="Donate via SociaBuzz"/></a>
 
 <sub>your support means a lot. thank you for being part of the journey!</sub>
 
