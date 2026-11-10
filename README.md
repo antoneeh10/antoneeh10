@@ -62,13 +62,30 @@ i'm a computer and network engineering student from indonesia who enjoys combini
 
 ---
 
+☕ Support My Work
+
+<div align="center">
+
+if you enjoy my projects and want to support my work, consider buying me a coffee. every contribution helps me keep learning, building, and creating more things.
+
+<br/>
+<a href="https://buymeacoffee.com/tkzr.dnote"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_Me-FA9D32?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Donate via Saweria"/></a>
+<a href="https://saweria.co/tkzr_dnote"><img src="https://img.shields.io/badge/Saweria-Support_Me-FA9D32?style=for-the-badge&logo=saweria&logoColor=white" alt="Donate via Saweria"/></a>
+<a href="https://sociabuzz.com/tkzr_dnote/tribe"><img src="https://img.shields.io/badge/SociaBuzz-Support_Me-8B5CF6?style=for-the-badge&logo=heart&logoColor=white" alt="Donate via SociaBuzz"/></a>
+
+<sub>your support means a lot. thank you for being part of the journey!</sub>
+
+</div>
+
+---
+
 🤝 Let's Connect
 
 <div align="center"><a href="https://github.com/antoneeh10"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://last.fm/user/yanzzz_songs"><img src="https://img.shields.io/badge/Last.fm-My_Music-BD2C35?style=for-the-badge&logo=lastdotfm" alt="Last.fm"/></a>
 <a href="mailto:contact@ardian-ap.my.id"><img src="https://img.shields.io/badge/Email-Say_Hello-0EA5E9?style=for-the-badge&logo=minutemailer" alt="Email"/></a>
 
-<br/><br/>
+<br/>
 
 "Simplicity is the ultimate sophistication." ✨
 
